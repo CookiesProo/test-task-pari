@@ -1,1 +1,1 @@
-# test-task-pari 
+Команда для запуска тестов для задания с Playwright: npx playwright test
